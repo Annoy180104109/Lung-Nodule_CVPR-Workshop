@@ -1,5 +1,5 @@
 # Lung-Nodule_CVPR-Workshop
-Title : Towards A Few-Shot Segmentation and Classification Framework for Lung Nodule Analysis
+Title : Few-Shot Joint Segmentation and Classification of Lung Nodules in CT with Self-Supervised Correlation Transformers
 
 Abstract : In this study, few-shot joint segmentation and classification of lung nodules in chest Computed Tomography002
 (CT) was investigated under limited-annotation settings.A framework was developed to support both fully supervised few-shot learning with pixel-level annotations and a mixed-supervision setting combining pixel-level labels with weaker image-level supervision. Using a self-supervised007
